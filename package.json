@@ -1,0 +1,31 @@
+{
+  "name": "sapiant",
+  "version": "1.0.0",
+  "description": "Robust real-time neural network engine. Designed to be easy to use by non-experts.",
+  "main": "sapiant.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrainyGuyCom/sapiant"
+  },
+  "keywords": [
+    "nn",
+    "neural",
+    "network",
+    "analytics",
+    "machine",
+    "learning",
+    "predictive",
+    "analytics"
+  ],
+  "author": "Carlos Reyes",
+  "license": "AfferoGpl3",
+  "bugs": {
+    "url": "https://github.com/BrainyGuyCom/sapiant/issues"
+  },
+  "homepage": "https://github.com/BrainyGuyCom/sapiant"
+}
