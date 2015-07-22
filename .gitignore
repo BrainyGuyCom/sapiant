@@ -1,3 +1,4 @@
 # Node directories and files to ignore.
 node_modules
+local-notes
 npm-debug.log
